@@ -1,13 +1,12 @@
 # Welcome To - The Board Game
 
 ## Description
-This is a fully front-end development project inspired by the board game *Welcome To*. It replicates core elements of the game’s interface and interactions through HTML, CSS, and JavaScript. The project showcases:
-
+This is a fully front-end development project inspired by the board game *Welcome To*. It has the core elements of the GUI. This project includes HTML, CSS, and JavaScript. 
+The project showcases:
 - Interactive textboxes  
 - Checkboxes and custom-designed checkboxes  
-- Clickable and dynamically updated card piles  
+- Clickable card piles  
 - Shuffle functionality for card piles  
-- Smooth, responsive UI design  
 
 This project was built to practice DOM manipulation, event handling, and UI logic in a game-like setting.
 
@@ -22,12 +21,11 @@ No backend or installation dependencies required.
 
 
 ## Usage
-Click on any of the three card piles to reveal a card. Use the shuffle button to reshuffle the piles. You can interact with checkboxes and textboxes as you simulate turns in the board game. This tool can be used for either personal gameplay aid or as a demo for front-end interactivity.
+Click on any of the three card piles to reveal a card. Use the shuffle button to reshuffle the piles. You can interact with checkboxes and textboxes as you simulate turns in the board game. This tool can be used for either personal gameplay aid or as a simple front end demo.
 
 ## Author and Acknowledgement
 Created by **Edison Lin**.  
 Inspired by the board game *Welcome To...*.  
-Thanks to the developers and designers of the original game for the concept and structure.
 
 ## Roadmap
 Planned improvements include:
