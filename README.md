@@ -18,6 +18,8 @@ This project was built to practice DOM manipulation, event handling, and UI logi
 No backend or installation dependencies required.
 
 ## Images
+![sample board](https://github.com/user-attachments/assets/d204ecef-ab1c-426c-a708-ea8c3c7b0fd5))
+![cards](https://github.com/user-attachments/assets/28e5ee37-dbc8-4015-b343-0993e1b904bd)
 
 
 ## Usage
